@@ -1,6 +1,6 @@
 import './App.css'
 import Dashboard from './Components/Dashboard/dashboard'
-import Login from './Components/login/login'
+import Login from './Components/Login/login'
 import Register from './Components/Register/register'
 
 import {
